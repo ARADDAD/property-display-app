@@ -21,3 +21,29 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+# Node.js dependencies
+node_modules/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# Build directories
+dist/
+build/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE/editor config files (e.g., VS Code, JetBrains)
+.vscode/
+.idea/
+
+# Other files/folders you don't want to commit
+*.bak
+*.tmp
